@@ -1,0 +1,10 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X--------------------------M---------XXX
+X---------V------H-----V-----V---H---XXX
+X---------VM---------------V---------XXX
+X---------------------------M--------XXX
+X---------H----------------H---------XXX
+X------------M-----------M-----------XXX
+X---------V--------M-------V---------CCX
+XO---------------------V-----V-----V-CCX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

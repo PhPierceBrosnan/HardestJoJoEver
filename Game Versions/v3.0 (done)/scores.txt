@@ -1,0 +1,10 @@
+a 4000
+b 3000
+Bruno 2120
+Bruno 2119
+carlao 2116
+Teste 2105
+Nice 2074
+Carlos 2061
+c 2000
+naosei 1901
